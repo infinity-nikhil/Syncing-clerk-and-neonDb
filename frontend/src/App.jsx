@@ -1,7 +1,6 @@
 import { Show, SignInButton, SignUpButton, UserButton } from "@clerk/react";
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
